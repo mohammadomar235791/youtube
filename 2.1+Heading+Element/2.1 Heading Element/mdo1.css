@@ -1,0 +1,35 @@
+img{
+    height: 200px;
+    width: 500px;
+}
+h1{
+    font-size-adjust: 6vw;
+    color: green;
+}
+body{
+    background-color: rgb(201, 33, 33);
+}
+h2{
+    color: cadetblue;
+}
+th{
+    color: brown;
+    height: 20px;
+
+}
+table{
+    color: rgb(128, 10, 238);
+    height: 200px;
+    width: 200px;
+    border-collapse: collapse;
+    margin: 50px;
+    min-width: 400px;
+}
+body{
+    background-color: rgb(168, 219, 241);
+}
+tr{
+    background-color: wheat;
+    height: 20%;
+
+}
